@@ -1,6 +1,3 @@
-# Blog App
-[![Gitter](https://badges.gitter.im/ExpressHermesOSC/Blog-App.svg)](https://gitter.im/ExpressHermesOSC/Blog-App?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 A blog app built with django api for backend and reactjs for frontend.
 
 ## Requirements
